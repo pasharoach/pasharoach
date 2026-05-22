@@ -1,0 +1,30 @@
+name: Update Total Downloads Badge
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Aggregate downloads and update gist
+        env:
+          GH_USERNAME: pasharoach
+          GIST_ID: ${{ secrets.GIST_ID }}
+          GIST_FILENAME: downloads-total.json
+          GH_READ_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: python scripts/update_downloads_badge.py
