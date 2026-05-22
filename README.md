@@ -3,7 +3,7 @@
 automation engineer | python | media workflows
 
 <p align="center">
-  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgist.githubusercontent.com%2Fpasharoach%2FGIST_ID%2Fraw%2Fdownloads-total.json" alt="Total downloads" />
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgist.githubusercontent.com%2Fpasharoach%2F7d0a67961847d320023bc7dd5537605f%2Fraw%2Fdownloads-total.json" alt="Total downloads" />
 </p>
 
 <p align="center">
