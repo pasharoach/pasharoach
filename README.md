@@ -1,14 +1,19 @@
-# Pavel Platonov
+# Pasha Roach
 
-Coder
+coder
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=github_dark" alt="Profile details" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="180" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=percentile" height="170" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_GITHUB_USERNAME&theme=github_dark" height="170" alt="Repos per language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_GITHUB_USERNAME&theme=github_dark" height="170" alt="Most commit language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_GITHUB_USERNAME&theme=github_dark&utcOffset=3" height="170" alt="Productive time" />
 </p>
 
 ## About Me
@@ -42,4 +47,60 @@ YOUR_NAME
 YOUR_ROLE
 YOUR_GITHUB_USERNAME
 your.email@example.com
--->
+--># ORBOX-QC-AVR
+
+## Описание
+
+ORBOX-QC-AVR — это кроссплатформенное приложение для контроля качества и анализа работы AVR-устройств. Проект предназначен для инженеров, разработчиков и специалистов по тестированию, работающих с микроконтроллерами AVR.
+
+## Основные возможности
+
+- Визуализация и анализ данных, полученных с устройств AVR
+- Генерация отчетов по результатам тестирования
+- Удобный графический интерфейс (HTML)
+- Поддержка автономной сборки для macOS
+
+## Установка
+
+1. Клонируйте репозиторий:
+   ```bash
+   git clone https://github.com/yourusername/ORBOX-QC-AVR.git
+   ```
+2. Перейдите в папку проекта:
+   ```bash
+   cd ORBOX-QC-AVR
+   ```
+
+## Сборка
+
+Для сборки standalone-версии на macOS выполните:
+```bash
+./build-macos-standalone.sh
+```
+
+Собранные артефакты будут находиться в папке `build/ORBOX-QC-AVR/`.
+
+## Использование
+
+1. Откройте файл `orbox-qc-avr.html` в браузере для запуска интерфейса.
+2. Следуйте инструкциям на экране для подключения и анализа данных с вашего AVR-устройства.
+
+## Структура проекта
+
+- `build-macos-standalone.sh` — скрипт сборки для macOS
+- `orbox-qc-avr.html` — основной HTML-файл интерфейса
+- `assets/` — ресурсы проекта (иконки и др.)
+- `build/` — собранные артефакты
+
+## Требования
+
+- macOS (для standalone-сборки)
+- Современный браузер (для работы с HTML-интерфейсом)
+
+## Авторы
+
+- Pasha Roach
+
+## Лицензия
+
+MIT
