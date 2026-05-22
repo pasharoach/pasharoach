@@ -3,17 +3,17 @@
 coder
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=github_dark" alt="Profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pasharoach&theme=github_dark" alt="Profile details" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=percentile" height="170" alt="GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_GITHUB_USERNAME&theme=github_dark" height="170" alt="Repos per language" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pasharoach&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=percentile" height="170" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pasharoach&theme=github_dark" height="170" alt="Repos per language" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_GITHUB_USERNAME&theme=github_dark" height="170" alt="Most commit language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_GITHUB_USERNAME&theme=github_dark&utcOffset=3" height="170" alt="Productive time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pasharoach&theme=github_dark" height="170" alt="Most commit language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pasharoach&theme=github_dark&utcOffset=3" height="170" alt="Productive time" />
 </p>
 
 ## About Me
@@ -45,9 +45,10 @@ coder
 Replace these placeholders before publishing:
 YOUR_NAME
 YOUR_ROLE
-YOUR_GITHUB_USERNAME
 your.email@example.com
---># ORBOX-QC-AVR
+-->
+
+# ORBOX-QC-AVR
 
 ## Описание
 
