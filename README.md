@@ -3,10 +3,6 @@
 automation engineer | python | media workflows
 
 <p align="center">
-  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgist.githubusercontent.com%2Fpasharoach%2F7d0a67961847d320023bc7dd5537605f%2Fraw%2Fdownloads-total.json" alt="Total downloads" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pasharoach&theme=rose_pine" alt="Profile details" />
 </p>
 
@@ -45,16 +41,6 @@ automation engineer | python | media workflows
 - GitHub: https://github.com/pasharoach
 - Email: tarakanov@me.com
 
-## Настройка Total Downloads
-
-Этот бейдж показывает суммарные скачивания всех GitHub Release-артефактов по вашим репозиториям.
-
-1. Создайте публичный gist с файлом `downloads-total.json` и содержимым:
-  ```json
-  {"schemaVersion":1,"label":"total downloads","message":"0","color":"f3b3c5"}
-  ```
-2. В Secrets репозитория добавьте:
-  - `GIST_ID` = your gist id
-  - `GH_PAT` = personal access token со scope `gist`
-3. В этом README замените `GIST_ID` в URL бейджа выше на реальный id gist.
-4. Один раз запустите workflow `Update Total Downloads Badge` вручную.
+<p align="center">
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgist.githubusercontent.com%2Fpasharoach%2F7d0a67961847d320023bc7dd5537605f%2Fraw%2Fdownloads-total.json" alt="Total downloads" />
+</p>
